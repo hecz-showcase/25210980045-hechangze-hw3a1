@@ -1,6 +1,7 @@
 # Hamburger reconstruction files
 
-#Prompt
+# Prompt
+
 python launch.py \
     --config configs/dreamfusion-sd.yaml \
     --train \
